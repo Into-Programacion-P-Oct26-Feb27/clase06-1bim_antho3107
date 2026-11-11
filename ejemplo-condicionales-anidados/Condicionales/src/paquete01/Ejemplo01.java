@@ -44,3 +44,11 @@ public class Ejemplo01 {
     }
 
 }
+
+/*
+Al usuario se le presenta el mensaje de con que quiere manejar el selcciona 
+trabajar con AND asi que selecciona la opcion 1, el proceso ejecutara la
+primera condicion de si 1>0 && 1<=3 la cual es verdadera, seguimos a la segunda
+condicion de si 1 == 1 lo cual es verdadera y presentara el mensaje de que 
+esta trabajando con AND.
+*/
